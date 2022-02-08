@@ -1,0 +1,14 @@
+.negrito{
+    color: rgb(0, 0, 0);
+    font-size:bold;
+    font-style:bold;
+
+}
+.borda{ 
+    border: 10px;
+    background-color: rgb(248, 240, 240);
+    
+}
+html{
+     font-style: normal;
+}
